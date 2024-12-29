@@ -1,4 +1,4 @@
-![BannerArdualimentos](https://raw.githubusercontent.com/leonardoalvessousa/ArduAlimentos/refs/heads/main/BannerProj.jpg)
+![BannerBash](https://raw.githubusercontent.com/leonardoalvessousa/Building-a-Bash-Command-Line-Tool/refs/heads/main/BannerBash.jpg)
 
 Este projeto final representa o culminar do meu aprendizado no curso de **Building a Bash Command-Line Tool** realizado na Durk University. Ministrado pelo executivo residente e fundador da **Pragmatic IA Labs**  **[Noah Gift]( https://www.linkedin.com/in/noahgift/)**.
 

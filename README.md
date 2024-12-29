@@ -126,6 +126,6 @@ else
 fi
 ```
 
-## 😼 Autora 
+## 😼 Autor
 
  🐈‍⬛ @leonardoalvessousa

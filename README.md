@@ -4,7 +4,7 @@ Este projeto final representa o culminar do meu aprendizado no curso de **Buildi
 
 ### Projeto  Final 🚀
 
-Este projeto é um script Bash que manipula e formata uma frase de entrada de acordo com opções especificadas pelo usuário via linha de comando. Ele permite repetir a frase um número determinado de vezes, invertê-la, capitalizá-la e concatenar as repetições em uma única string, usando um delimitador personalizável.
+O projeto se trata de um script Bash que manipula e formata uma frase de entrada de acordo com opções especificadas pelo usuário via linha de comando. Ele permite repetir a frase um número determinado de vezes, invertê-la, capitalizá-la e concatenar as repetições em uma única string, usando um delimitador personalizável.
 
 ```Bash Command-Line
 #!/usr/bin/env bash
